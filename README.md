@@ -1,5 +1,5 @@
 # django-nginx-deploy
-
+test
 ### Setup basic django project
 
 ```sh
